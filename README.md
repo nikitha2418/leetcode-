@@ -69,3 +69,4 @@
 | 67 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 31 Jul 2026 | 07:19 pm |
 | 68 | [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) | [LeetCode](https://leetcode.com/problems/reshape-the-matrix/) | Easy | 31 Jul 2026 | 07:21 pm |
 | 69 | [Subtree of Another Tree](./LeetCode/Easy/Subtree%20of%20Another%20Tree) | [LeetCode](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | 31 Jul 2026 | 07:22 pm |
+| 70 | [Range Addition II](./LeetCode/Easy/Range%20Addition%20II) | [LeetCode](https://leetcode.com/problems/range-addition-ii/) | Easy | 31 Jul 2026 | 07:24 pm |
