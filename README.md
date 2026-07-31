@@ -29,3 +29,4 @@
 | 27 | [Count Only Once](./GeeksForGeeks/Medium/Count%20Only%20Once) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-only-once/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:18 pm |
 | 28 | [Sort Method](./GeeksForGeeks/Medium/Sort%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:19 pm |
 | 29 | [Equals Method](./GeeksForGeeks/Medium/Equals%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equals-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:19 pm |
+| 30 | [Fill Method](./GeeksForGeeks/Medium/Fill%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fill-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:20 pm |
