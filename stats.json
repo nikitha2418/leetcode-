@@ -1,12 +1,12 @@
 {
-  "totalSolved": 95,
+  "totalSolved": 96,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 95,
+  "todayCount": 96,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 73,
+    "medium": 74,
     "hard": 4,
     "basic": 2
   },
@@ -105,10 +105,11 @@
     "GeeksForGeeks_Java_Collections": true,
     "GeeksForGeeks_PriorityQueue_Insertion_-_2": true,
     "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
-    "GeeksForGeeks_Factorial_of_BigInteger": true
+    "GeeksForGeeks_Factorial_of_BigInteger": true,
+    "LeetCode_Minimum_Path_Sum": true
   },
   "activityHistory": {
-    "2026-07-31": 95
+    "2026-07-31": 96
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -205,6 +206,7 @@
     "Java Collections",
     "PriorityQueue Insertion - 2",
     "Inverted Right Angle Triangle Pattern",
-    "Factorial of BigInteger"
+    "Factorial of BigInteger",
+    "Minimum Path Sum"
   ]
 }
