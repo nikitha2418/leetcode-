@@ -15,3 +15,4 @@
 | 13 | [Anagram](./GeeksForGeeks/Medium/Anagram) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/anagram-1587115620/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:02 am |
 | 14 | [Java Override](./GeeksForGeeks/Medium/Java%20Override) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-override/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:03 am |
 | 15 | [Input Boolean Value](./GeeksForGeeks/Medium/Input%20Boolean%20Value) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/input-boolean-value/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:04 am |
+| 16 | [Java 1-d and 2-d Array](./GeeksForGeeks/Medium/Java%201-d%20and%202-d%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:06 am |
