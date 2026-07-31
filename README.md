@@ -65,3 +65,4 @@
 | 63 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 31 Jul 2026 | 07:13 pm |
 | 64 | [Student Attendance Record I](./LeetCode/Easy/Student%20Attendance%20Record%20I) | [LeetCode](https://leetcode.com/problems/student-attendance-record-i/) | Easy | 31 Jul 2026 | 07:14 pm |
 | 65 | [Maximum Depth of N-ary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20N-ary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | 31 Jul 2026 | 07:16 pm |
+| 66 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 31 Jul 2026 | 07:19 pm |
