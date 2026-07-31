@@ -91,3 +91,4 @@
 | 89 | [Sort an ArrayList](./GeeksForGeeks/Medium/Sort%20an%20ArrayList) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-arraylist/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:56 pm |
 | 90 | [Common Elements](./GeeksForGeeks/Medium/Common%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/common-elements5420/1?page=2&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:57 pm |
 | 91 | [Comparator Sort Strings](./GeeksForGeeks/Medium/Comparator%20Sort%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/comparator-sort-strings/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:58 pm |
+| 92 | [Java Collections](./GeeksForGeeks/Medium/Java%20Collections) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collections-set-8-treeset/1?page=7&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:58 pm |
