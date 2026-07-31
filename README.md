@@ -81,3 +81,4 @@
 | 79 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 31 Jul 2026 | 07:36 pm |
 | 80 | [HashMap Operations](./GeeksForGeeks/Medium/HashMap%20Operations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:39 pm |
 | 81 | [Java Classes Introduction](./GeeksForGeeks/Medium/Java%20Classes%20Introduction) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-classes-introduction/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:40 pm |
+| 82 | [ArrayList insertion](./GeeksForGeeks/Medium/ArrayList%20insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-insertion/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:41 pm |
