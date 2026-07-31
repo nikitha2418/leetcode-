@@ -11,3 +11,4 @@
 | 9 | [Concatenate and Reverse](./GeeksForGeeks/Medium/Concatenate%20and%20Reverse) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-strings-set-15112/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 06:54 am |
 | 10 | [Decrement Array Values](./GeeksForGeeks/Medium/Decrement%20Array%20Values) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/decrement-array-values/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 06:56 am |
 | 11 | [Day before N days](./GeeksForGeeks/Medium/Day%20before%20N%20days) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/days-before-n-days--150030/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 06:57 am |
+| 12 | [Next Prime Number](./GeeksForGeeks/Medium/Next%20Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-prime-number/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:00 am |
