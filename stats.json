@@ -1,12 +1,12 @@
 {
-  "totalSolved": 85,
+  "totalSolved": 86,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 85,
+  "todayCount": 86,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 63,
+    "medium": 64,
     "hard": 4,
     "basic": 2
   },
@@ -95,10 +95,11 @@
     "GeeksForGeeks_ArrayList_insertion": true,
     "GeeksForGeeks_Java_Abstract_keyword": true,
     "GeeksForGeeks_Java_Streams_Sum": true,
-    "GeeksForGeeks_Multi_Parameters_Lambda_Expression": true
+    "GeeksForGeeks_Multi_Parameters_Lambda_Expression": true,
+    "GeeksForGeeks_Sorted_Frequency": true
   },
   "activityHistory": {
-    "2026-07-31": 85
+    "2026-07-31": 86
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -185,6 +186,7 @@
     "ArrayList insertion",
     "Java Abstract keyword",
     "Java Streams Sum",
-    "Multi Parameters Lambda Expression"
+    "Multi Parameters Lambda Expression",
+    "Sorted Frequency"
   ]
 }

@@ -85,3 +85,4 @@
 | 83 | [Java Abstract keyword](./GeeksForGeeks/Medium/Java%20Abstract%20keyword) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-abstract-keyword/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:42 pm |
 | 84 | [Java Streams Sum](./GeeksForGeeks/Medium/Java%20Streams%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-sum/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:44 pm |
 | 85 | [Multi Parameters Lambda Expression](./GeeksForGeeks/Medium/Multi%20Parameters%20Lambda%20Expression) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multi-parameters-lambda-expression/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:45 pm |
+| 86 | [Sorted Frequency](./GeeksForGeeks/Medium/Sorted%20Frequency) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:46 pm |
