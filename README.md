@@ -97,3 +97,4 @@
 | 95 | [Factorial of BigInteger](./GeeksForGeeks/Medium/Factorial%20of%20BigInteger) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial-of-biginteger/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 08:02 pm |
 | 96 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 31 Jul 2026 | 08:04 pm |
 | 97 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 31 Jul 2026 | 08:05 pm |
+| 98 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 31 Jul 2026 | 08:06 pm |
