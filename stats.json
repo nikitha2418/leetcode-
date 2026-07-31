@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 9,
+    "medium": 10,
     "hard": 1,
     "basic": 0
   },
@@ -20,10 +20,11 @@
     "GeeksForGeeks_Array_Traversal_Reverse": true,
     "GeeksForGeeks_Function_With_No_Arguments": true,
     "GeeksForGeeks_Concatenate_and_Reverse": true,
-    "GeeksForGeeks_Decrement_Array_Values": true
+    "GeeksForGeeks_Decrement_Array_Values": true,
+    "GeeksForGeeks_Day_before_N_days": true
   },
   "activityHistory": {
-    "2026-07-31": 10
+    "2026-07-31": 11
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -35,6 +36,7 @@
     "Array Traversal Reverse",
     "Function With No Arguments",
     "Concatenate and Reverse",
-    "Decrement Array Values"
+    "Decrement Array Values",
+    "Day before N days"
   ]
 }
