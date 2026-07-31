@@ -1,13 +1,13 @@
 {
-  "totalSolved": 70,
+  "totalSolved": 71,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 70,
+  "todayCount": 71,
   "difficultyCounts": {
     "easy": 9,
     "medium": 57,
-    "hard": 2,
+    "hard": 3,
     "basic": 2
   },
   "syncedProblems": {
@@ -80,10 +80,11 @@
     "LeetCode_Binary_Tree_Tilt": true,
     "LeetCode_Reshape_the_Matrix": true,
     "LeetCode_Subtree_of_Another_Tree": true,
-    "LeetCode_Range_Addition_II": true
+    "LeetCode_Range_Addition_II": true,
+    "LeetCode_Word_Ladder_II": true
   },
   "activityHistory": {
-    "2026-07-31": 70
+    "2026-07-31": 71
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -155,6 +156,7 @@
     "Binary Tree Tilt",
     "Reshape the Matrix",
     "Subtree of Another Tree",
-    "Range Addition II"
+    "Range Addition II",
+    "Word Ladder II"
   ]
 }
