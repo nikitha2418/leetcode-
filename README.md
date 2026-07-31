@@ -37,3 +37,4 @@
 | 35 | [Distinct Sorted](./GeeksForGeeks/Medium/Distinct%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distinct-sorted--124713/1?page=7&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:26 pm |
 | 36 | [Java Date and Day](./GeeksForGeeks/Medium/Java%20Date%20and%20Day) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-date-and-day5024/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:27 pm |
 | 37 | [Java Collection](./GeeksForGeeks/Medium/Java%20Collection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collection-set-5-linkedhash-set/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:29 pm |
+| 38 | [Operations on PriorityQueue](./GeeksForGeeks/Medium/Operations%20on%20PriorityQueue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/operations-on-priorityqueue/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:39 pm |
