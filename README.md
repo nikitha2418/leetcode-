@@ -72,3 +72,4 @@
 | 70 | [Range Addition II](./LeetCode/Easy/Range%20Addition%20II) | [LeetCode](https://leetcode.com/problems/range-addition-ii/) | Easy | 31 Jul 2026 | 07:24 pm |
 | 71 | [Word Ladder II](./LeetCode/Hard/Word%20Ladder%20II) | [LeetCode](https://leetcode.com/problems/word-ladder-ii/) | Hard | 31 Jul 2026 | 07:29 pm |
 | 72 | [Palindrome Partitioning II](./LeetCode/Hard/Palindrome%20Partitioning%20II) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | 31 Jul 2026 | 07:30 pm |
+| 73 | [Image Smoother](./LeetCode/Easy/Image%20Smoother) | [LeetCode](https://leetcode.com/problems/image-smoother/) | Easy | 31 Jul 2026 | 07:31 pm |
