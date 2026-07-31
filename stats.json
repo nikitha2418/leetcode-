@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 57,
+  "todayCount": 58,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 53,
+    "medium": 54,
     "hard": 2,
     "basic": 2
   },
@@ -67,10 +67,11 @@
     "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
     "LeetCode_Subsets_II": true,
     "LeetCode_Decode_Ways": true,
-    "LeetCode_Recover_Binary_Search_Tree": true
+    "LeetCode_Recover_Binary_Search_Tree": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal_II": true
   },
   "activityHistory": {
-    "2026-07-31": 57
+    "2026-07-31": 58
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -129,6 +130,7 @@
     "Remove Duplicates from Sorted List II",
     "Subsets II",
     "Decode Ways",
-    "Recover Binary Search Tree"
+    "Recover Binary Search Tree",
+    "Binary Tree Level Order Traversal II"
   ]
 }

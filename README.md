@@ -57,3 +57,4 @@
 | 55 | [Subsets II](./LeetCode/Medium/Subsets%20II) | [LeetCode](https://leetcode.com/problems/subsets-ii/) | Medium | 31 Jul 2026 | 06:43 pm |
 | 56 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 31 Jul 2026 | 06:44 pm |
 | 57 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 31 Jul 2026 | 06:46 pm |
+| 58 | [Binary Tree Level Order Traversal II](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal%20II) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | 31 Jul 2026 | 06:48 pm |
