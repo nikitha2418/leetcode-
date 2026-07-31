@@ -77,3 +77,4 @@
 | 75 | [Longest Continuous Increasing Subsequence](./LeetCode/Easy/Longest%20Continuous%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | 31 Jul 2026 | 07:32 pm |
 | 76 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 31 Jul 2026 | 07:33 pm |
 | 77 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 31 Jul 2026 | 07:34 pm |
+| 78 | [Merge Two Binary Trees](./LeetCode/Easy/Merge%20Two%20Binary%20Trees) | [LeetCode](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | 31 Jul 2026 | 07:35 pm |
