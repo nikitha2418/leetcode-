@@ -1,12 +1,12 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 80,
+  "todayCount": 81,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 58,
+    "medium": 59,
     "hard": 4,
     "basic": 2
   },
@@ -90,10 +90,11 @@
     "LeetCode_Can_Place_Flowers": true,
     "LeetCode_Merge_Two_Binary_Trees": true,
     "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
-    "GeeksForGeeks_HashMap_Operations": true
+    "GeeksForGeeks_HashMap_Operations": true,
+    "GeeksForGeeks_Java_Classes_Introduction": true
   },
   "activityHistory": {
-    "2026-07-31": 80
+    "2026-07-31": 81
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -175,6 +176,7 @@
     "Can Place Flowers",
     "Merge Two Binary Trees",
     "Two Sum IV - Input is a BST",
-    "HashMap Operations"
+    "HashMap Operations",
+    "Java Classes Introduction"
   ]
 }
