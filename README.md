@@ -21,3 +21,4 @@
 | 19 | [Java Streams Filter](./GeeksForGeeks/Medium/Java%20Streams%20Filter) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-filter/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:10 am |
 | 20 | [Java Interface](./GeeksForGeeks/Medium/Java%20Interface) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-interface/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 01:38 pm |
 | 21 | [Right Angle Triangle 2](./GeeksForGeeks/Medium/Right%20Angle%20Triangle%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-2-1605689820--102106/1?page=2&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 01:40 pm |
+| 22 | [Print Without Newline](./GeeksForGeeks/Medium/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:11 pm |
