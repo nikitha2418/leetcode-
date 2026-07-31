@@ -61,3 +61,4 @@
 | 59 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 31 Jul 2026 | 06:53 pm |
 | 60 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 31 Jul 2026 | 06:54 pm |
 | 61 | [Restore IP Addresses](./LeetCode/Medium/Restore%20IP%20Addresses) | [LeetCode](https://leetcode.com/problems/restore-ip-addresses/) | Medium | 31 Jul 2026 | 07:05 pm |
+| 62 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 31 Jul 2026 | 07:12 pm |
