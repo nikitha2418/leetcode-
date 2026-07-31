@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 44,
+  "todayCount": 45,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 41,
+    "medium": 42,
     "hard": 1,
     "basic": 2
   },
@@ -54,10 +54,11 @@
     "GeeksForGeeks_Maximum_Neighbours_In_ArrayList": true,
     "GeeksForGeeks_Maximize_Number_of_Toys": true,
     "LeetCode_Group_Anagrams": true,
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "LeetCode_Rotate_List": true
   },
   "activityHistory": {
-    "2026-07-31": 44
+    "2026-07-31": 45
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -103,6 +104,7 @@
     "Maximum Neighbours In ArrayList",
     "Maximize Number of Toys",
     "Group Anagrams",
-    "Pow(x, n)"
+    "Pow(x, n)",
+    "Rotate List"
   ]
 }

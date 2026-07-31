@@ -44,3 +44,4 @@
 | 42 | [Maximize Number of Toys](./GeeksForGeeks/Basic/Maximize%20Number%20of%20Toys) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximize-number-of-toys/1?page=5&category=Java&sortBy=submissions) | Basic | 31 Jul 2026 | 02:52 pm |
 | 43 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 31 Jul 2026 | 06:33 pm |
 | 44 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 31 Jul 2026 | 06:35 pm |
+| 45 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 31 Jul 2026 | 06:35 pm |
