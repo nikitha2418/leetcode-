@@ -87,3 +87,4 @@
 | 85 | [Multi Parameters Lambda Expression](./GeeksForGeeks/Medium/Multi%20Parameters%20Lambda%20Expression) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multi-parameters-lambda-expression/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:45 pm |
 | 86 | [Sorted Frequency](./GeeksForGeeks/Medium/Sorted%20Frequency) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:46 pm |
 | 87 | [Elected candidate](./GeeksForGeeks/Medium/Elected%20candidate) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/elected-candidate/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:47 pm |
+| 88 | [One Extra Character](./GeeksForGeeks/Medium/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:48 pm |
