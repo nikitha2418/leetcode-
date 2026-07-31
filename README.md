@@ -24,3 +24,4 @@
 | 22 | [Print Without Newline](./GeeksForGeeks/Medium/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:11 pm |
 | 23 | [Binary Search on ArrayList](./GeeksForGeeks/Medium/Binary%20Search%20on%20ArrayList) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:14 pm |
 | 24 | [LinkedList Insertion](./GeeksForGeeks/Medium/LinkedList%20Insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linkedlist-insertion/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:15 pm |
+| 25 | [Java Streams Average](./GeeksForGeeks/Basic/Java%20Streams%20Average) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-average/1?page=5&category=Java&sortBy=submissions) | Basic | 31 Jul 2026 | 02:16 pm |
