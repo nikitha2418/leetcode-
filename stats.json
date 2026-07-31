@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 42,
+  "todayCount": 43,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 39,
+    "medium": 40,
     "hard": 1,
     "basic": 2
   },
@@ -52,10 +52,11 @@
     "GeeksForGeeks_Java_Exception_Handling": true,
     "GeeksForGeeks_Java_Streams_Max": true,
     "GeeksForGeeks_Maximum_Neighbours_In_ArrayList": true,
-    "GeeksForGeeks_Maximize_Number_of_Toys": true
+    "GeeksForGeeks_Maximize_Number_of_Toys": true,
+    "LeetCode_Group_Anagrams": true
   },
   "activityHistory": {
-    "2026-07-31": 42
+    "2026-07-31": 43
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -99,6 +100,7 @@
     "Java Exception Handling",
     "Java Streams Max",
     "Maximum Neighbours In ArrayList",
-    "Maximize Number of Toys"
+    "Maximize Number of Toys",
+    "Group Anagrams"
   ]
 }
