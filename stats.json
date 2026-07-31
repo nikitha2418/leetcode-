@@ -1,12 +1,12 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 79,
+  "todayCount": 80,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 57,
+    "medium": 58,
     "hard": 4,
     "basic": 2
   },
@@ -89,10 +89,11 @@
     "LeetCode_Valid_Palindrome_II": true,
     "LeetCode_Can_Place_Flowers": true,
     "LeetCode_Merge_Two_Binary_Trees": true,
-    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true
+    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
+    "GeeksForGeeks_HashMap_Operations": true
   },
   "activityHistory": {
-    "2026-07-31": 79
+    "2026-07-31": 80
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -173,6 +174,7 @@
     "Valid Palindrome II",
     "Can Place Flowers",
     "Merge Two Binary Trees",
-    "Two Sum IV - Input is a BST"
+    "Two Sum IV - Input is a BST",
+    "HashMap Operations"
   ]
 }

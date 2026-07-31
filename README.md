@@ -79,3 +79,4 @@
 | 77 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 31 Jul 2026 | 07:34 pm |
 | 78 | [Merge Two Binary Trees](./LeetCode/Easy/Merge%20Two%20Binary%20Trees) | [LeetCode](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | 31 Jul 2026 | 07:35 pm |
 | 79 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 31 Jul 2026 | 07:36 pm |
+| 80 | [HashMap Operations](./GeeksForGeeks/Medium/HashMap%20Operations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:39 pm |
