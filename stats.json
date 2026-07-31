@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 100,
+  "todayCount": 101,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 78,
+    "medium": 79,
     "hard": 4,
     "basic": 2
   },
@@ -110,10 +110,11 @@
     "LeetCode_Jump_Game": true,
     "LeetCode_Insert_Interval": true,
     "LeetCode_Triangle": true,
-    "LeetCode_Gas_Station": true
+    "LeetCode_Gas_Station": true,
+    "LeetCode_Word_Break": true
   },
   "activityHistory": {
-    "2026-07-31": 100
+    "2026-07-31": 101
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -215,6 +216,7 @@
     "Jump Game",
     "Insert Interval",
     "Triangle",
-    "Gas Station"
+    "Gas Station",
+    "Word Break"
   ]
 }
