@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 47,
+  "todayCount": 48,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 44,
+    "medium": 45,
     "hard": 1,
     "basic": 2
   },
@@ -57,10 +57,11 @@
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_Rotate_List": true,
     "LeetCode_Unique_Paths": true,
-    "LeetCode_Unique_Paths_II": true
+    "LeetCode_Unique_Paths_II": true,
+    "LeetCode_Edit_Distance": true
   },
   "activityHistory": {
-    "2026-07-31": 47
+    "2026-07-31": 48
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -109,6 +110,7 @@
     "Pow(x, n)",
     "Rotate List",
     "Unique Paths",
-    "Unique Paths II"
+    "Unique Paths II",
+    "Edit Distance"
   ]
 }
