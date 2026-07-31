@@ -1,11 +1,11 @@
 {
-  "totalSolved": 68,
+  "totalSolved": 69,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 68,
+  "todayCount": 69,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 57,
     "hard": 2,
     "basic": 2
@@ -78,10 +78,11 @@
     "LeetCode_Maximum_Depth_of_N-ary_Tree": true,
     "LeetCode_Array_Partition": true,
     "LeetCode_Binary_Tree_Tilt": true,
-    "LeetCode_Reshape_the_Matrix": true
+    "LeetCode_Reshape_the_Matrix": true,
+    "LeetCode_Subtree_of_Another_Tree": true
   },
   "activityHistory": {
-    "2026-07-31": 68
+    "2026-07-31": 69
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -151,6 +152,7 @@
     "Maximum Depth of N-ary Tree",
     "Array Partition",
     "Binary Tree Tilt",
-    "Reshape the Matrix"
+    "Reshape the Matrix",
+    "Subtree of Another Tree"
   ]
 }

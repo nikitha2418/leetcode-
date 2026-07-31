@@ -68,3 +68,4 @@
 | 66 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 31 Jul 2026 | 07:19 pm |
 | 67 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 31 Jul 2026 | 07:19 pm |
 | 68 | [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) | [LeetCode](https://leetcode.com/problems/reshape-the-matrix/) | Easy | 31 Jul 2026 | 07:21 pm |
+| 69 | [Subtree of Another Tree](./LeetCode/Easy/Subtree%20of%20Another%20Tree) | [LeetCode](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | 31 Jul 2026 | 07:22 pm |
