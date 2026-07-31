@@ -64,3 +64,4 @@
 | 62 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 31 Jul 2026 | 07:12 pm |
 | 63 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 31 Jul 2026 | 07:13 pm |
 | 64 | [Student Attendance Record I](./LeetCode/Easy/Student%20Attendance%20Record%20I) | [LeetCode](https://leetcode.com/problems/student-attendance-record-i/) | Easy | 31 Jul 2026 | 07:14 pm |
+| 65 | [Maximum Depth of N-ary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20N-ary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | 31 Jul 2026 | 07:16 pm |
