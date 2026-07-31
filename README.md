@@ -88,3 +88,4 @@
 | 86 | [Sorted Frequency](./GeeksForGeeks/Medium/Sorted%20Frequency) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:46 pm |
 | 87 | [Elected candidate](./GeeksForGeeks/Medium/Elected%20candidate) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/elected-candidate/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:47 pm |
 | 88 | [One Extra Character](./GeeksForGeeks/Medium/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:48 pm |
+| 89 | [Sort an ArrayList](./GeeksForGeeks/Medium/Sort%20an%20ArrayList) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-arraylist/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:56 pm |

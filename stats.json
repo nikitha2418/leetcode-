@@ -1,12 +1,12 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 88,
+  "todayCount": 89,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 66,
+    "medium": 67,
     "hard": 4,
     "basic": 2
   },
@@ -98,10 +98,11 @@
     "GeeksForGeeks_Multi_Parameters_Lambda_Expression": true,
     "GeeksForGeeks_Sorted_Frequency": true,
     "GeeksForGeeks_Elected_candidate": true,
-    "GeeksForGeeks_One_Extra_Character": true
+    "GeeksForGeeks_One_Extra_Character": true,
+    "GeeksForGeeks_Sort_an_ArrayList": true
   },
   "activityHistory": {
-    "2026-07-31": 88
+    "2026-07-31": 89
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -191,6 +192,7 @@
     "Multi Parameters Lambda Expression",
     "Sorted Frequency",
     "Elected candidate",
-    "One Extra Character"
+    "One Extra Character",
+    "Sort an ArrayList"
   ]
 }
