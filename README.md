@@ -60,3 +60,4 @@
 | 58 | [Binary Tree Level Order Traversal II](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal%20II) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | 31 Jul 2026 | 06:48 pm |
 | 59 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 31 Jul 2026 | 06:53 pm |
 | 60 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 31 Jul 2026 | 06:54 pm |
+| 61 | [Restore IP Addresses](./LeetCode/Medium/Restore%20IP%20Addresses) | [LeetCode](https://leetcode.com/problems/restore-ip-addresses/) | Medium | 31 Jul 2026 | 07:05 pm |
