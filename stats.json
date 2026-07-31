@@ -1,13 +1,13 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 49,
+  "todayCount": 50,
   "difficultyCounts": {
     "easy": 0,
     "medium": 46,
-    "hard": 1,
+    "hard": 2,
     "basic": 2
   },
   "syncedProblems": {
@@ -59,10 +59,11 @@
     "LeetCode_Unique_Paths": true,
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Edit_Distance": true,
-    "LeetCode_Sort_Colors": true
+    "LeetCode_Sort_Colors": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
   "activityHistory": {
-    "2026-07-31": 49
+    "2026-07-31": 50
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -113,6 +114,7 @@
     "Unique Paths",
     "Unique Paths II",
     "Edit Distance",
-    "Sort Colors"
+    "Sort Colors",
+    "Minimum Window Substring"
   ]
 }
