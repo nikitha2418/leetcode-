@@ -39,3 +39,4 @@
 | 37 | [Java Collection](./GeeksForGeeks/Medium/Java%20Collection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collection-set-5-linkedhash-set/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:29 pm |
 | 38 | [Operations on PriorityQueue](./GeeksForGeeks/Medium/Operations%20on%20PriorityQueue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/operations-on-priorityqueue/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:39 pm |
 | 39 | [Java Exception Handling](./GeeksForGeeks/Medium/Java%20Exception%20Handling) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-exception-handling-1606978567/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:45 pm |
+| 40 | [Java Streams Max](./GeeksForGeeks/Medium/Java%20Streams%20Max) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-max/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:47 pm |
