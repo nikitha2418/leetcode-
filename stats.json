@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 31,
+  "todayCount": 32,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 29,
+    "medium": 30,
     "hard": 1,
     "basic": 1
   },
@@ -41,10 +41,11 @@
     "GeeksForGeeks_Sort_Method": true,
     "GeeksForGeeks_Equals_Method": true,
     "GeeksForGeeks_Fill_Method": true,
-    "GeeksForGeeks_Comparator_Sort_Coordinates": true
+    "GeeksForGeeks_Comparator_Sort_Coordinates": true,
+    "GeeksForGeeks_The_Thief_Problem": true
   },
   "activityHistory": {
-    "2026-07-31": 31
+    "2026-07-31": 32
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -77,6 +78,7 @@
     "Sort Method",
     "Equals Method",
     "Fill Method",
-    "Comparator Sort Coordinates"
+    "Comparator Sort Coordinates",
+    "The Thief Problem"
   ]
 }
