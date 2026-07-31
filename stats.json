@@ -1,11 +1,11 @@
 {
-  "totalSolved": 67,
+  "totalSolved": 68,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 67,
+  "todayCount": 68,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 57,
     "hard": 2,
     "basic": 2
@@ -77,10 +77,11 @@
     "LeetCode_Student_Attendance_Record_I": true,
     "LeetCode_Maximum_Depth_of_N-ary_Tree": true,
     "LeetCode_Array_Partition": true,
-    "LeetCode_Binary_Tree_Tilt": true
+    "LeetCode_Binary_Tree_Tilt": true,
+    "LeetCode_Reshape_the_Matrix": true
   },
   "activityHistory": {
-    "2026-07-31": 67
+    "2026-07-31": 68
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -149,6 +150,7 @@
     "Student Attendance Record I",
     "Maximum Depth of N-ary Tree",
     "Array Partition",
-    "Binary Tree Tilt"
+    "Binary Tree Tilt",
+    "Reshape the Matrix"
   ]
 }
