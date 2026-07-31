@@ -92,3 +92,4 @@
 | 90 | [Common Elements](./GeeksForGeeks/Medium/Common%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/common-elements5420/1?page=2&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:57 pm |
 | 91 | [Comparator Sort Strings](./GeeksForGeeks/Medium/Comparator%20Sort%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/comparator-sort-strings/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:58 pm |
 | 92 | [Java Collections](./GeeksForGeeks/Medium/Java%20Collections) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collections-set-8-treeset/1?page=7&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:58 pm |
+| 93 | [PriorityQueue Insertion - 2](./GeeksForGeeks/Medium/PriorityQueue%20Insertion%20-%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/priorityqueue-inserion-2/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 08:00 pm |

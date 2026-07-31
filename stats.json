@@ -1,12 +1,12 @@
 {
-  "totalSolved": 92,
+  "totalSolved": 93,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 92,
+  "todayCount": 93,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 70,
+    "medium": 71,
     "hard": 4,
     "basic": 2
   },
@@ -102,10 +102,11 @@
     "GeeksForGeeks_Sort_an_ArrayList": true,
     "GeeksForGeeks_Common_Elements": true,
     "GeeksForGeeks_Comparator_Sort_Strings": true,
-    "GeeksForGeeks_Java_Collections": true
+    "GeeksForGeeks_Java_Collections": true,
+    "GeeksForGeeks_PriorityQueue_Insertion_-_2": true
   },
   "activityHistory": {
-    "2026-07-31": 92
+    "2026-07-31": 93
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -199,6 +200,7 @@
     "Sort an ArrayList",
     "Common Elements",
     "Comparator Sort Strings",
-    "Java Collections"
+    "Java Collections",
+    "PriorityQueue Insertion - 2"
   ]
 }
