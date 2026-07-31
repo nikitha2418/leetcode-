@@ -82,3 +82,4 @@
 | 80 | [HashMap Operations](./GeeksForGeeks/Medium/HashMap%20Operations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-collection-set-3-hashmap/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:39 pm |
 | 81 | [Java Classes Introduction](./GeeksForGeeks/Medium/Java%20Classes%20Introduction) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-classes-introduction/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:40 pm |
 | 82 | [ArrayList insertion](./GeeksForGeeks/Medium/ArrayList%20insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-insertion/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:41 pm |
+| 83 | [Java Abstract keyword](./GeeksForGeeks/Medium/Java%20Abstract%20keyword) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-abstract-keyword/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:42 pm |

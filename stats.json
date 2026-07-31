@@ -1,12 +1,12 @@
 {
-  "totalSolved": 82,
+  "totalSolved": 83,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 82,
+  "todayCount": 83,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 60,
+    "medium": 61,
     "hard": 4,
     "basic": 2
   },
@@ -92,10 +92,11 @@
     "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
     "GeeksForGeeks_HashMap_Operations": true,
     "GeeksForGeeks_Java_Classes_Introduction": true,
-    "GeeksForGeeks_ArrayList_insertion": true
+    "GeeksForGeeks_ArrayList_insertion": true,
+    "GeeksForGeeks_Java_Abstract_keyword": true
   },
   "activityHistory": {
-    "2026-07-31": 82
+    "2026-07-31": 83
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -179,6 +180,7 @@
     "Two Sum IV - Input is a BST",
     "HashMap Operations",
     "Java Classes Introduction",
-    "ArrayList insertion"
+    "ArrayList insertion",
+    "Java Abstract keyword"
   ]
 }
