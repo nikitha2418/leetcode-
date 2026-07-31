@@ -32,3 +32,4 @@
 | 30 | [Fill Method](./GeeksForGeeks/Medium/Fill%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fill-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:20 pm |
 | 31 | [Comparator Sort Coordinates](./GeeksForGeeks/Medium/Comparator%20Sort%20Coordinates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/comparator-sort-coordinates/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:21 pm |
 | 32 | [The Thief Problem](./GeeksForGeeks/Medium/The%20Thief%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-thief-problem--180930/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:22 pm |
+| 33 | [Keep Indices After Sorting](./GeeksForGeeks/Medium/Keep%20Indices%20After%20Sorting) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/keep-indices-after-sorting/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:24 pm |
