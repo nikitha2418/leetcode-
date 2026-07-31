@@ -1,11 +1,11 @@
 {
-  "totalSolved": 76,
+  "totalSolved": 77,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 76,
+  "todayCount": 77,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 57,
     "hard": 4,
     "basic": 2
@@ -86,10 +86,11 @@
     "LeetCode_Image_Smoother": true,
     "LeetCode_Second_Minimum_Node_In_a_Binary_Tree": true,
     "LeetCode_Longest_Continuous_Increasing_Subsequence": true,
-    "LeetCode_Valid_Palindrome_II": true
+    "LeetCode_Valid_Palindrome_II": true,
+    "LeetCode_Can_Place_Flowers": true
   },
   "activityHistory": {
-    "2026-07-31": 76
+    "2026-07-31": 77
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -167,6 +168,7 @@
     "Image Smoother",
     "Second Minimum Node In a Binary Tree",
     "Longest Continuous Increasing Subsequence",
-    "Valid Palindrome II"
+    "Valid Palindrome II",
+    "Can Place Flowers"
   ]
 }

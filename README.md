@@ -76,3 +76,4 @@
 | 74 | [Second Minimum Node In a Binary Tree](./LeetCode/Easy/Second%20Minimum%20Node%20In%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | 31 Jul 2026 | 07:31 pm |
 | 75 | [Longest Continuous Increasing Subsequence](./LeetCode/Easy/Longest%20Continuous%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | 31 Jul 2026 | 07:32 pm |
 | 76 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 31 Jul 2026 | 07:33 pm |
+| 77 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 31 Jul 2026 | 07:34 pm |
