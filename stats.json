@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 0
   },
@@ -18,10 +18,11 @@
     "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
     "GeeksForGeeks_Function_With_Arguments": true,
     "GeeksForGeeks_Array_Traversal_Reverse": true,
-    "GeeksForGeeks_Function_With_No_Arguments": true
+    "GeeksForGeeks_Function_With_No_Arguments": true,
+    "GeeksForGeeks_Concatenate_and_Reverse": true
   },
   "activityHistory": {
-    "2026-07-31": 8
+    "2026-07-31": 9
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -31,6 +32,7 @@
     "All Prime Factors in Sorted Order",
     "Function With Arguments",
     "Array Traversal Reverse",
-    "Function With No Arguments"
+    "Function With No Arguments",
+    "Concatenate and Reverse"
   ]
 }
