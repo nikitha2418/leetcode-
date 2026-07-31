@@ -13,3 +13,4 @@
 | 11 | [Day before N days](./GeeksForGeeks/Medium/Day%20before%20N%20days) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/days-before-n-days--150030/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 06:57 am |
 | 12 | [Next Prime Number](./GeeksForGeeks/Medium/Next%20Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-prime-number/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:00 am |
 | 13 | [Anagram](./GeeksForGeeks/Medium/Anagram) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/anagram-1587115620/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:02 am |
+| 14 | [Java Override](./GeeksForGeeks/Medium/Java%20Override) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-override/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:03 am |

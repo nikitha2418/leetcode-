@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 0
   },
@@ -23,10 +23,11 @@
     "GeeksForGeeks_Decrement_Array_Values": true,
     "GeeksForGeeks_Day_before_N_days": true,
     "GeeksForGeeks_Next_Prime_Number": true,
-    "GeeksForGeeks_Anagram": true
+    "GeeksForGeeks_Anagram": true,
+    "GeeksForGeeks_Java_Override": true
   },
   "activityHistory": {
-    "2026-07-31": 13
+    "2026-07-31": 14
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -41,6 +42,7 @@
     "Decrement Array Values",
     "Day before N days",
     "Next Prime Number",
-    "Anagram"
+    "Anagram",
+    "Java Override"
   ]
 }
