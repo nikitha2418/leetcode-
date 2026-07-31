@@ -43,3 +43,4 @@
 | 41 | [Maximum Neighbours In ArrayList](./GeeksForGeeks/Medium/Maximum%20Neighbours%20In%20ArrayList) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-neighbours-in-arraylist/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:48 pm |
 | 42 | [Maximize Number of Toys](./GeeksForGeeks/Basic/Maximize%20Number%20of%20Toys) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximize-number-of-toys/1?page=5&category=Java&sortBy=submissions) | Basic | 31 Jul 2026 | 02:52 pm |
 | 43 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 31 Jul 2026 | 06:33 pm |
+| 44 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 31 Jul 2026 | 06:35 pm |
