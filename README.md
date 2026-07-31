@@ -30,3 +30,4 @@
 | 28 | [Sort Method](./GeeksForGeeks/Medium/Sort%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:19 pm |
 | 29 | [Equals Method](./GeeksForGeeks/Medium/Equals%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equals-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:19 pm |
 | 30 | [Fill Method](./GeeksForGeeks/Medium/Fill%20Method) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fill-method/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:20 pm |
+| 31 | [Comparator Sort Coordinates](./GeeksForGeeks/Medium/Comparator%20Sort%20Coordinates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/comparator-sort-coordinates/1?page=6&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 02:21 pm |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 30,
+  "todayCount": 31,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 28,
+    "medium": 29,
     "hard": 1,
     "basic": 1
   },
@@ -40,10 +40,11 @@
     "GeeksForGeeks_Count_Only_Once": true,
     "GeeksForGeeks_Sort_Method": true,
     "GeeksForGeeks_Equals_Method": true,
-    "GeeksForGeeks_Fill_Method": true
+    "GeeksForGeeks_Fill_Method": true,
+    "GeeksForGeeks_Comparator_Sort_Coordinates": true
   },
   "activityHistory": {
-    "2026-07-31": 30
+    "2026-07-31": 31
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -75,6 +76,7 @@
     "Count Only Once",
     "Sort Method",
     "Equals Method",
-    "Fill Method"
+    "Fill Method",
+    "Comparator Sort Coordinates"
   ]
 }
