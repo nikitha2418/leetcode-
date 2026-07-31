@@ -18,3 +18,4 @@
 | 16 | [Java 1-d and 2-d Array](./GeeksForGeeks/Medium/Java%201-d%20and%202-d%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1?page=3&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:06 am |
 | 17 | [Java loops](./GeeksForGeeks/Medium/Java%20loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-loops-set-11726/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:07 am |
 | 18 | [ArrayList Iterate Front to Back](./GeeksForGeeks/Medium/ArrayList%20Iterate%20Front%20to%20Back) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-iterate-front-to-back/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:09 am |
+| 19 | [Java Streams Filter](./GeeksForGeeks/Medium/Java%20Streams%20Filter) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-filter/1?page=5&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 07:10 am |
