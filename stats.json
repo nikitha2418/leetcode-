@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Print_With_Separator": true,
     "GeeksForGeeks_Java_Arrays": true,
-    "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true
+    "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
+    "GeeksForGeeks_Function_With_Arguments": true
   },
   "activityHistory": {
-    "2026-07-31": 5
+    "2026-07-31": 6
   },
   "todayProblems": [
     "Regular Expression Matching",
     "Right Angle Triangle Pattern",
     "Print With Separator",
     "Java Arrays",
-    "All Prime Factors in Sorted Order"
+    "All Prime Factors in Sorted Order",
+    "Function With Arguments"
   ]
 }
