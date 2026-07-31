@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 16,
+    "medium": 17,
     "hard": 1,
     "basic": 0
   },
@@ -27,10 +27,11 @@
     "GeeksForGeeks_Java_Override": true,
     "GeeksForGeeks_Input_Boolean_Value": true,
     "GeeksForGeeks_Java_1-d_and_2-d_Array": true,
-    "GeeksForGeeks_Java_loops": true
+    "GeeksForGeeks_Java_loops": true,
+    "GeeksForGeeks_ArrayList_Iterate_Front_to_Back": true
   },
   "activityHistory": {
-    "2026-07-31": 17
+    "2026-07-31": 18
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -49,6 +50,7 @@
     "Java Override",
     "Input Boolean Value",
     "Java 1-d and 2-d Array",
-    "Java loops"
+    "Java loops",
+    "ArrayList Iterate Front to Back"
   ]
 }
