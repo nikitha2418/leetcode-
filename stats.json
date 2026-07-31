@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 83,
+  "todayCount": 84,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 61,
+    "medium": 62,
     "hard": 4,
     "basic": 2
   },
@@ -93,10 +93,11 @@
     "GeeksForGeeks_HashMap_Operations": true,
     "GeeksForGeeks_Java_Classes_Introduction": true,
     "GeeksForGeeks_ArrayList_insertion": true,
-    "GeeksForGeeks_Java_Abstract_keyword": true
+    "GeeksForGeeks_Java_Abstract_keyword": true,
+    "GeeksForGeeks_Java_Streams_Sum": true
   },
   "activityHistory": {
-    "2026-07-31": 83
+    "2026-07-31": 84
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -181,6 +182,7 @@
     "HashMap Operations",
     "Java Classes Introduction",
     "ArrayList insertion",
-    "Java Abstract keyword"
+    "Java Abstract keyword",
+    "Java Streams Sum"
   ]
 }
