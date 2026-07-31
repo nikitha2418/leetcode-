@@ -1,11 +1,11 @@
 {
-  "totalSolved": 73,
+  "totalSolved": 74,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 73,
+  "todayCount": 74,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 57,
     "hard": 4,
     "basic": 2
@@ -83,10 +83,11 @@
     "LeetCode_Range_Addition_II": true,
     "LeetCode_Word_Ladder_II": true,
     "LeetCode_Palindrome_Partitioning_II": true,
-    "LeetCode_Image_Smoother": true
+    "LeetCode_Image_Smoother": true,
+    "LeetCode_Second_Minimum_Node_In_a_Binary_Tree": true
   },
   "activityHistory": {
-    "2026-07-31": 73
+    "2026-07-31": 74
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -161,6 +162,7 @@
     "Range Addition II",
     "Word Ladder II",
     "Palindrome Partitioning II",
-    "Image Smoother"
+    "Image Smoother",
+    "Second Minimum Node In a Binary Tree"
   ]
 }

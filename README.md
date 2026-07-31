@@ -73,3 +73,4 @@
 | 71 | [Word Ladder II](./LeetCode/Hard/Word%20Ladder%20II) | [LeetCode](https://leetcode.com/problems/word-ladder-ii/) | Hard | 31 Jul 2026 | 07:29 pm |
 | 72 | [Palindrome Partitioning II](./LeetCode/Hard/Palindrome%20Partitioning%20II) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | 31 Jul 2026 | 07:30 pm |
 | 73 | [Image Smoother](./LeetCode/Easy/Image%20Smoother) | [LeetCode](https://leetcode.com/problems/image-smoother/) | Easy | 31 Jul 2026 | 07:31 pm |
+| 74 | [Second Minimum Node In a Binary Tree](./LeetCode/Easy/Second%20Minimum%20Node%20In%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | 31 Jul 2026 | 07:31 pm |
