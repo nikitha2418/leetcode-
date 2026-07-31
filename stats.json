@@ -1,12 +1,12 @@
 {
-  "totalSolved": 96,
+  "totalSolved": 97,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-31",
-  "todayCount": 96,
+  "todayCount": 97,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 74,
+    "medium": 75,
     "hard": 4,
     "basic": 2
   },
@@ -106,10 +106,11 @@
     "GeeksForGeeks_PriorityQueue_Insertion_-_2": true,
     "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Factorial_of_BigInteger": true,
-    "LeetCode_Minimum_Path_Sum": true
+    "LeetCode_Minimum_Path_Sum": true,
+    "LeetCode_Jump_Game": true
   },
   "activityHistory": {
-    "2026-07-31": 96
+    "2026-07-31": 97
   },
   "todayProblems": [
     "Regular Expression Matching",
@@ -207,6 +208,7 @@
     "PriorityQueue Insertion - 2",
     "Inverted Right Angle Triangle Pattern",
     "Factorial of BigInteger",
-    "Minimum Path Sum"
+    "Minimum Path Sum",
+    "Jump Game"
   ]
 }
